@@ -1,0 +1,47 @@
+{
+  "rules": [
+    {
+      "rule_id": "RULE001",
+      "conditions": {
+        "q1": " Agree",
+        "q2": "Disagree",
+        "q3": " Agree"
+      },
+      "personality": "Extrovert",
+      "confidence": 0.9,
+      "created_date": "2025-08-09T15:29:03.673898"
+    },
+    {
+      "rule_id": "RULE002",
+      "conditions": {
+        "q4": " Agree",
+        "q5": "Disagree",
+        "q6": " Agree"
+      },
+      "personality": "Introvert",
+      "confidence": 0.85,
+      "created_date": "2025-08-09T15:29:03.673932"
+    },
+    {
+      "rule_id": "RULE003",
+      "conditions": {
+        "q7": "Neutral",
+        "q8": "Neutral",
+        "q9": "Neutral"
+      },
+      "personality": "Ambivert",
+      "confidence": 0.8,
+      "created_date": "2025-08-09T15:29:03.673939"
+    },
+    {
+      "rule_id": "RULE004",
+      "conditions": {
+        "q1": "Strongly agree",
+        "q2": "Neutral"
+      },
+      "personality": "Introvert",
+      "confidence": 0.7,
+      "created_date": "2025-08-09T15:41:39.916901"
+    }
+  ]
+}

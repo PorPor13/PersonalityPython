@@ -1,0 +1,91 @@
+[
+  {
+    "action": "create",
+    "rule_id": "RULE004",
+    "timestamp": "2025-08-09T14:36:24.816469",
+    "details": {
+      "rule_id": "RULE004",
+      "conditions": {
+        "q1": "Neutral",
+        "q2": "Strongly disagree",
+        "q3": " Agree",
+        "q4": " Agree",
+        "q5": " Agree",
+        "q6": "Strongly agree",
+        "q7": "Neutral",
+        "q8": "Strongly agree",
+        "q9": "Neutral"
+      },
+      "personality": "Extrovert",
+      "confidence": 0.8,
+      "created_date": "2025-08-09T14:36:24.816429"
+    }
+  },
+  {
+    "action": "delete",
+    "rule_id": "RULE004",
+    "timestamp": "2025-08-09T14:36:39.938443",
+    "details": {
+      "rule_id": "RULE004",
+      "conditions": {
+        "q1": "Neutral",
+        "q2": "Strongly disagree",
+        "q3": " Agree",
+        "q4": " Agree",
+        "q5": " Agree",
+        "q6": "Strongly agree",
+        "q7": "Neutral",
+        "q8": "Strongly agree",
+        "q9": "Neutral"
+      },
+      "personality": "Extrovert",
+      "confidence": 0.8,
+      "created_date": "2025-08-09T14:36:24.816429"
+    }
+  },
+  {
+    "action": "create",
+    "rule_id": "RULE004",
+    "timestamp": "2025-08-09T15:35:38.871664",
+    "details": {
+      "rule_id": "RULE004",
+      "conditions": {
+        "q1": "Strongly agree",
+        "q2": "Neutral"
+      },
+      "personality": "Extrovert",
+      "confidence": 0.8,
+      "created_date": "2025-08-09T15:35:38.871632"
+    }
+  },
+  {
+    "action": "update",
+    "rule_id": "RULE004",
+    "timestamp": "2025-08-09T15:40:27.165455",
+    "details": {
+      "rule_id": "RULE004",
+      "conditions": {
+        "q1": "Strongly agree",
+        "q2": "Neutral"
+      },
+      "personality": "Extrovert",
+      "confidence": 0.8,
+      "created_date": "2025-08-09T15:40:27.165386"
+    }
+  },
+  {
+    "action": "update",
+    "rule_id": "RULE004",
+    "timestamp": "2025-08-09T15:41:39.916934",
+    "details": {
+      "rule_id": "RULE004",
+      "conditions": {
+        "q1": "Strongly agree",
+        "q2": "Neutral"
+      },
+      "personality": "Introvert",
+      "confidence": 0.7,
+      "created_date": "2025-08-09T15:41:39.916901"
+    }
+  }
+]
